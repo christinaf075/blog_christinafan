@@ -4,7 +4,10 @@
     "items": [
       "/posts/post-with-code/index.html",
       "/posts/first-post/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/first-post/overlap2.html",
+      "/posts/first-post/overlap1.html",
+      "/posts/first-post/nocategory.html"
     ]
   }
 ]

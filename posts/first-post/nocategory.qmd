@@ -1,0 +1,16 @@
+---
+title: "High School Essay Excerpt"
+author: "Christina Fan"
+date: "2022-11-07"
+categories: []
+---
+
+This is a paragraph from an essay I wrote for a Theory of Knowledge class I took in high school.
+I remember wholeheartedly believing everything I wrote at the time, but now when I read it, even 
+though I was going for the right idea at the time, it's pretty cringe-inducing. I think most people cringe when they
+read their past writing pieces from childhood.
+
+Intro: When pursuing knowledge, there is certain knowledge we should not pursue on ethical grounds. The pursuit of knowledge is typically defined as seeking knowledge with the intention of applying it. 
+Ethical grounds are the criteria from the systems used to make moral decisions and boundaries refer to ethical limits. Boundaries of acceptable investigation are set by these ethical grounds. 
+We define “acceptable investigation” as the pursuit of knowledge that is deemed ethical or “morally acceptable” according to the ethical grounds and boundaries. We can determine the boundaries of acceptable investigation 
+within an area of knowledge by considering the ethics of the methods used to conduct the investigation. However, sometimes we need to judge the ethics of the utility of the knowledge acquired through the investigation to determine an acceptable boundary.

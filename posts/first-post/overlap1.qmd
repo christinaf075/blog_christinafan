@@ -1,0 +1,23 @@
+---
+title: "tDCS protocol"
+author: "Christina Fan"
+date: "2025-09-10"
+categories: [research, methods]
+---
+
+This is an informal tDCS protocol I wrote for myself last term when I just started learning the technique.
+I don't think it's that coherent for people who are actually trying to learn it for the first time, it's more of a record
+for myself.
+
+Setup Protocol:
+1. Measure and mark Oz(10% of distance from naison to inion above inion)
+2. Get band and 2 pins -> make sure you adjust band so that you're handing one end to participant -> ask participant to hold it at temples for you -> place your hands on those locations to place pins there
+3. Wet electrode pads with 10 mL saline, using pipette to administer 5 mL on each side
+4. Use stick to make an upside down T to expose marked Oz
+5. Place anode over Oz and keep finger pressed to it -> use other hand to stretch band over electrode to cover it -> ask participant if it feels too tight, letting them know finger is still under
+6. Once good, stick band to black pin (which should be at edge of one end of band) -> snugly remove fingers
+7. Attach another band to other side with pin
+8. Put third pin on middle (right under chin) -> use pipette to add 5 mL of saline on each side of cathode -> angle it diagonally to face so that it is 3 cm from lip corner
+9. place it there and then use band to cover it as much as possible
+10. Attach band to opposite side -> loop back, covering remaining parts of cathode -> pin to adjacent side
+11. DC Stimulator -> 07990 -> Impedence less than 3.0, current is 2 A

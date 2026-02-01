@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\nthoughts\n\nmeta\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nChristina Fan\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 28, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\nthoughts\n\nmeta\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nChristina Fan\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 28, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching my Dad Neuorimaging Experiment Protocols\n\n\n\nresearch\n\nteaching\n\n\n\n\n\n\n\n\n\nSep 10, 2025\n\n\nChristina Fan\n\n\n\n\n\n\n\n\n\n\n\n\ntDCS protocol\n\n\n\nresearch\n\nmethods\n\n\n\n\n\n\n\n\n\nSep 10, 2025\n\n\nChristina Fan\n\n\n\n\n\n\n\n\n\n\n\n\nHigh School Essay Excerpt\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2022\n\n\nChristina Fan\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/first-post/overlap1.html",
+    "href": "posts/first-post/overlap1.html",
+    "title": "tDCS protocol",
+    "section": "",
+    "text": "This is an informal tDCS protocol I wrote for myself last term when I just started learning the technique. I don’t think it’s that coherent for people who are actually trying to learn it for the first time, it’s more of a record for myself.\nSetup Protocol: 1. Measure and mark Oz(10% of distance from naison to inion above inion) 2. Get band and 2 pins -&gt; make sure you adjust band so that you’re handing one end to participant -&gt; ask participant to hold it at temples for you -&gt; place your hands on those locations to place pins there 3. Wet electrode pads with 10 mL saline, using pipette to administer 5 mL on each side 4. Use stick to make an upside down T to expose marked Oz 5. Place anode over Oz and keep finger pressed to it -&gt; use other hand to stretch band over electrode to cover it -&gt; ask participant if it feels too tight, letting them know finger is still under 6. Once good, stick band to black pin (which should be at edge of one end of band) -&gt; snugly remove fingers 7. Attach another band to other side with pin 8. Put third pin on middle (right under chin) -&gt; use pipette to add 5 mL of saline on each side of cathode -&gt; angle it diagonally to face so that it is 3 cm from lip corner 9. place it there and then use band to cover it as much as possible 10. Attach band to opposite side -&gt; loop back, covering remaining parts of cathode -&gt; pin to adjacent side 11. DC Stimulator -&gt; 07990 -&gt; Impedence less than 3.0, current is 2 A"
   },
   {
     "objectID": "posts/first-post/index.html",
@@ -21,6 +28,13 @@
     "text": "I’m starting this blog because it’s an assignment for a computational research methods course I’m taking. However, maybe if I take a liking to posting my thoughts and ideas online for the public, I will continue sharing whatever random content comes along, and maybe it can be a meaningful way for people to spend their time reading about, whether because they can connect to it in some way, or simply to kill the time."
   },
   {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -28,11 +42,18 @@
     "text": "This is a post with executable code."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/first-post/overlap2.html",
+    "href": "posts/first-post/overlap2.html",
+    "title": "Teaching my Dad Neuorimaging Experiment Protocols",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is a summary of an experiment protocol I wrote for my dad before he went to participate in an neuroimaging experiment last year; he was concerned his English wasn’t proficient enough to understand all the experiment steps, so I translated everything in Chinese (his native language) for him. I actually also want to see if I can upload posts with non-English characters onto the blog.\n实验概要：\n一共分两次， 你得去两趟，每次2-3个小时：\n第一次：实验者给你介绍你要干吗，介绍完了你可以提问，如果愿意参加实验就填授权表。授权后会提问你的身体健康现况有没有资格参加实验（这个你已经达标了，你没有什么神经心脏疾病，身体里没有金属物品，Blah blah) 1. 先得测试你的视力，4个视力测试就是基本的那种离一段距离，问你看到的是什么，物体是从哪个方向朝你来，看到多少个物体，blah blah, 很basic。 2. 心理测试，一共三个： a. Binocular Rivalry: 这个好像也是一种视力测试，中文叫双眼竞争，你自己去看我给你发的翻译版本的第三页吧。 b. Simultaneity Task: 你坐在电脑面前，屏幕前会给你闪现一个小方块，也会播放一个beep声音。你得判断声音播放和方块闪现是否同时发生，觉得是同时就按某一个键，觉得不是就按另一个键。这个会做个5-10分钟，有时候是同时发生，有时候不是。 c. Temporal Order Judgement Task: 和上面那个一样，但是现在是问你哪个先发生，方块还是beep声音。也做个5-10分钟吧。 3. MRI: 工作人员会指导你要进MRI之前的注意事项（你身上不能有任何金属物品不然会危害身体，得换上某种衣服, 戴上耳塞保护耳朵, 具体的还有）。你会在MRI里躺40分钟，会给你一个小东西来和他们沟通（如果你想出去可以随时通过这个告诉他们）。 4. 从MRI里出来后会给你进行脑电波刺激。会用胶和一些什么橡皮往你脑袋上按上那个电波仪器。刺激的时候可能会感觉痒，发热因为你的脑袋那块会短暂的增加血液流淌。不常见，但有些人可能会头痛或者想吐。如果你出现这些症状他们会停止实验让你下去吃药/休息。脑电波刺激是要20分钟。 5. 刺激完了你再进去MRI里躺个40分钟。\n那个顺序肯定是MRI-&gt;脑电波刺激-&gt;MRI，但心理测试可能先测也可能后面测。\n第二次实验的流程和第一次是一样的，唯一的区别是有一次是真的在给你进行脑电波刺激，另一次是假的。重点就是这些，实验背后的理论你感兴趣的话可以读一下他的介绍或者问我，详细的细节他会下周发过来。你去的时候他也会再给你讲解一遍，你有不懂的地方就问，实验就是要保证越准确越好。"
+  },
+  {
+    "objectID": "posts/first-post/nocategory.html",
+    "href": "posts/first-post/nocategory.html",
+    "title": "High School Essay Excerpt",
+    "section": "",
+    "text": "This is a paragraph from an essay I wrote for a Theory of Knowledge class I took in high school. I remember wholeheartedly believing everything I wrote at the time, but now when I read it, even though I was going for the right idea at the time, it’s pretty cringe-inducing. I think most people cringe when they read their past writing pieces from childhood.\nIntro: When pursuing knowledge, there is certain knowledge we should not pursue on ethical grounds. The pursuit of knowledge is typically defined as seeking knowledge with the intention of applying it. Ethical grounds are the criteria from the systems used to make moral decisions and boundaries refer to ethical limits. Boundaries of acceptable investigation are set by these ethical grounds. We define “acceptable investigation” as the pursuit of knowledge that is deemed ethical or “morally acceptable” according to the ethical grounds and boundaries. We can determine the boundaries of acceptable investigation within an area of knowledge by considering the ethics of the methods used to conduct the investigation. However, sometimes we need to judge the ethics of the utility of the knowledge acquired through the investigation to determine an acceptable boundary."
   },
   {
     "objectID": "about.html",
