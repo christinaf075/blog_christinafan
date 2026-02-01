@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  description: "This blog hosts informal thoughts and work that aren't related to academics/work."
+  site-url: https://christinaf075.github.io/blog_christinafan # you must change this appropriately for RSS feeds to work properly
+  title: "Christina's Blog Space"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - icon: github
+        href: https://github.com/
+      - text: "About"
+        file: about.qmd
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+

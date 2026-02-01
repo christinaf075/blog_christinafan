@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\nthoughts\n\nmeta\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nChristina Fan\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 28, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/first-post/index.html",
+    "href": "posts/first-post/index.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "I’m starting this blog because it’s an assignment for a computational research methods course I’m taking. However, maybe if I take a liking to posting my thoughts and ideas online for the public, I will continue sharing whatever random content comes along, and maybe it can be a meaningful way for people to spend their time reading about, whether because they can connect to it in some way, or simply to kill the time."
+  },
+  {
+    "objectID": "posts/first-post/index.html#why-im-starting-this-blog",
+    "href": "posts/first-post/index.html#why-im-starting-this-blog",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "I’m starting this blog because it’s an assignment for a computational research methods course I’m taking. However, maybe if I take a liking to posting my thoughts and ideas online for the public, I will continue sharing whatever random content comes along, and maybe it can be a meaningful way for people to spend their time reading about, whether because they can connect to it in some way, or simply to kill the time."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this Blog",
+    "section": "",
+    "text": "This is a place to dump my thoughts, opinions, and whatever other works that I come up with. It may include rants or inquiries I have about academics and work, the shows and books I’m interested in, life hacks on cooking, cleaning, or whatever life errands come my way. Hopefully readers with similar experiences and interests can relate to some of these posts as they come, and help them relieve some stress as it does for me when I write them."
+  }
+]

@@ -1,0 +1,14 @@
+---
+title: "My First Blog Post"
+author: "Christina Fan"
+date: "2026-01-31"
+categories: [thoughts, meta]
+---
+
+## Why I'm Starting This Blog
+
+I'm starting this blog because it's an assignment for a computational research methods course
+I'm taking. However, maybe if I take a liking to posting my thoughts and ideas online for 
+the public, I will continue sharing whatever random content comes along, and maybe it can be 
+a meaningful way for people to spend their time reading about, whether because they can connect to it
+in some way, or simply to kill the time.

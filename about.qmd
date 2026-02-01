@@ -1,0 +1,16 @@
+---
+title: "About this Blog"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+This is a place to dump my thoughts, opinions, and whatever other works that I come up with. It may include rants or inquiries I have about academics and work, the shows and books I'm interested in, life hacks on cooking, cleaning, or whatever life errands come my way. Hopefully readers with similar experiences and interests can relate to some of these posts as they come, and help them relieve some stress as it does for me when I write them.
